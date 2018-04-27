@@ -22,7 +22,7 @@ To use this extension on Maven-based projects, use following dependency:
 
 ## Usage
 
-(to be written)
+[Apache License](https://github.com/davebaol/jackson-jaxrs-smile-provider/blob/master/LICENSE)
 
 ## Downloads, Documentation etc
 
